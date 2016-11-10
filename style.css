@@ -1,0 +1,13 @@
+body
+{
+	background-color:#7FFFD4;
+}
+
+div
+{
+	background-color:#A9A9A9;
+	border:2px solid black;
+	display: block;
+    margin: auto;
+    width: 50%;
+}
